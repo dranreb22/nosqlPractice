@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7+dDnnZ05P+ersyetA5/O/CaXQsfTJpTpx5qODAPHDStCk1FC2gJTZPWhiyV3gn2VoTrxd/dCHSFmJbmeYJxFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\berna\\Documents\\C sharp practice\\nosqlPractice\\nosqlPractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berna\\.nuget\\packages\\litedb\\5.0.10\\litedb.5.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
